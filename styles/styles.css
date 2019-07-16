@@ -1,0 +1,20 @@
+.mirror__section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#article__mirrorBox--blue {
+    border: 1px solid blue;
+}
+
+#article__mirrorBox--orange {
+    border: 1px solid orange;
+}
+
+#message__form {
+    display: block;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+
